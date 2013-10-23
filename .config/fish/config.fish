@@ -64,7 +64,7 @@ setenv VISUAL "vim"
       end
     end
     if not set -q __fish_prompt_delim
-      set -g __fish_prompt_delim '❗ $ '
+      set -g __fish_prompt_delim '# '
     end
 
   case '*'
@@ -74,7 +74,7 @@ setenv VISUAL "vim"
     end
 
     if not set -q __fish_prompt_delim
-      set -g __fish_prompt_delim '🍩 $ '
+      set -g __fish_prompt_delim '$ '
     end
 
   end
@@ -108,7 +108,7 @@ setenv VISUAL "vim"
   end
   set -l prompt_separator_width (math $COLUMNS - 1)
   if set -q __fish_prompt
-    set -l prompt_separator_characters (jot -b "━" -s "" $prompt_separator_width)
+    #set -l prompt_separator_characters (jot -b "━" -s "" $prompt_separator_width)
   end
   echo -s "$__fish_prompt_user" "$USER" "$__fish_prompt_splitter" @ "$__fish_prompt_host" "$__fish_prompt_hostname" "$__fish_prompt_normal" ' ' "$__fish_prompt_cwd" (prompt_pwd) (__fish_git_prompt) "$__fish_prompt_normal" "$prompt_status"
   echo -s "$__fish_prompt_delim"
@@ -129,5 +129,5 @@ end
 
 function fish_right_prompt
   set -l date (date +%I:%M:%S%P)
-  echo "[$date]"
+  #echo "[$date]"
 end
