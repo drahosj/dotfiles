@@ -109,6 +109,7 @@ setenv VISUAL "vim"
   set -l prompt_separator_width (math $COLUMNS - 1)
   if set -q __fish_prompt
     #set -l prompt_separator_characters (jot -b "━" -s "" $prompt_separator_width)
+    echo -s "$prompt_separator_color" "$prompt_separator_characters"
   end
   echo -s "$__fish_prompt_user" "$USER" "$__fish_prompt_splitter" @ "$__fish_prompt_host" "$__fish_prompt_hostname" "$__fish_prompt_normal" ' ' "$__fish_prompt_cwd" (prompt_pwd) (__fish_git_prompt) "$__fish_prompt_normal" "$prompt_status"
   echo -s "$__fish_prompt_delim"
