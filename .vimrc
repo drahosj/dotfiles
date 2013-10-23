@@ -1,6 +1,7 @@
 filetype plugin indent on
 filetype plugin on
 colorscheme Tomorrow-Night
+syntax on
 
 function ToggleSyntax ()
     :if exists("g:syntax_on") | syntax off | else | syntax on | endif
@@ -19,7 +20,6 @@ nnoremap gc :!git commit<CR>
 nnoremap gp :!git push<CR>
 
 function SetCode ()
-    syntax on
     setlocal tabstop=4
     setlocal softtabstop=4
     setlocal shiftwidth=4
