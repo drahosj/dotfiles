@@ -1,5 +1,6 @@
 filetype plugin indent on
 filetype plugin on
+colorscheme Tomorrow-Night
 
 function ToggleSyntax ()
     :if exists("g:syntax_on") | syntax off | else | syntax on | endif
