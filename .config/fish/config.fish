@@ -129,5 +129,5 @@ end
 
 function fish_right_prompt
   set -l date (date +%I:%M:%S%P)
-  #echo "[$date]"
+  echo "[$date]"
 end
