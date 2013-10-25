@@ -53,6 +53,8 @@ function SetPython ()
     call SetCode()
 endfunction
 
+autocmd FileType gitcommit 1
+
 autocmd FileType python call SetPython()
 autocmd FileType ruby call SetRuby()
 autocmd FileType gitcommit call SetPython()
