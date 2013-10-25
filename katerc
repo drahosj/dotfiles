@@ -7,18 +7,32 @@ CurrentPalette=Forty Colors
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
-Indentation Mode=normal
-Mode=
-URL=file:///home/jake/.vimrc
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///home/jake/Downloads/darK/sample.rb
 
 [Document 1]
 Bookmarks=
 Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
 Highlighting=Ruby
 Indentation Mode=ruby
 Mode=Ruby
 URL=file:///home/jake/code/ruby/Blackjack/classes.rb
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///home/jake/code/ruby/Blackjack/ui.rb
 
 [General]
 Days Meta Infos=30
@@ -31,9 +45,11 @@ Show Status Bar=true
 Startup Session=manual
 
 [KFileDialog Settings]
+Height 1024=527
 Height 768=420
-Recent Files[$e]=install.sh,$HOME/code/ruby/Blackjack/classes.rb,$HOME/code/ruby/Blackjack/blackjack.rb,$HOME/code/ruby/Blackjack/ui.rb,$HOME/Downloads/DarkOxygen/install.sh
+Recent Files[$e]=install.sh,$HOME/Downloads/darK/sample.rb,$HOME/code/ruby/Blackjack/ui.rb,$HOME/code/ruby/Blackjack/classes.rb,$HOME/code/ruby/Blackjack/blackjack.rb
 Recent URLs[$e]=$HOME/Downloads/DarkOxygen/,$HOME/code/ruby/Blackjack/
+Width 1280=960
 Width 1366=683
 
 [Kate Document Defaults]
@@ -96,9 +112,10 @@ katetabifyplugin=false
 katetextfilterplugin=false
 katexmlcheckplugin=false
 katexmltoolsplugin=false
+pateplugin=false
 
 [Kate Renderer Defaults]
-Schema=Vim (dark)
+Schema=darK
 Show Indentation Lines=true
 Show Whole Bracket Expression=false
 Word Wrap Marker=false
@@ -134,26 +151,33 @@ Search/Replace Flags=140
 Smart Copy Cut=false
 Vi Input Mode=true
 Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Hide Status Bar=false
 Vi Input Mode Steal Keys=true
 Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
+Height 1024=1025
+Height 1080=1081
 Height 768=694
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABQAAAAO8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
+Width 1280=1281
 Width 1366=1366
+Width 1920=1921
 
 [MainWindow0]
 Characters Count Visible=false
 Cursor Position Visible=true
 Document Name Visible=true
 Encoding Visible=true
+Height 1024=1025
+Height 1080=1081
 Height 768=769
 Insertion Mode Visible=true
-Kate-MDI-H-Splitter=200,1140,200
-Kate-MDI-Sidebar-0-Splitter=643,0
+Kate-MDI-H-Splitter=200,1049,200
+Kate-MDI-Sidebar-0-Splitter=956,0
 Kate-MDI-Sidebar-3-Splitter=0,0
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
@@ -172,25 +196,32 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,621,200
+Kate-MDI-V-Splitter=150,930,200
 Selection Mode Visible=true
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABQAAAAO8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1280=1281
 Width 1366=1367
+Width 1920=1921
 
 [MainWindow0 Settings]
+Height 1024=1025
+Height 1080=1081
 Height 768=769
-State=AAAA/wAAAAD9AAAAAAAABVYAAAKDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABQAAAAO8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Width 1280=1281
 Width 1366=1367
+Width 1920=1921
 WindowState=10
 
 [MainWindow0-Splitter 0]
-Sizes=1140
+Sizes=1049
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///home/jake/.vimrc
+Active View=file:///home/jake/Downloads/darK/sample.rb
 Count=1
-View 0=file:///home/jake/.vimrc
-View 1=file:///home/jake/code/ruby/Blackjack/classes.rb
+View 0=file:///home/jake/Downloads/darK/sample.rb
+View 1=file:///home/jake/code/ruby/Blackjack/ui.rb
+View 2=file:///home/jake/code/ruby/Blackjack/classes.rb
 
 [MainWindow0-ViewSpace 0 file:///home/jake/.cache/.fr-qjO4cW/DarkOxygen/README]
 CursorColumn=0
@@ -216,23 +247,35 @@ CursorLine=0
 JumpList=0,0
 ViMarks=.,0,0,[,0,0,],-1,-1
 
-[MainWindow0-ViewSpace 0 file:///home/jake/code/ruby/Blackjack/blackjack.rb]
-CursorColumn=9
+[MainWindow0-ViewSpace 0 file:///home/jake/Downloads/darK/sample.rb]
+CursorColumn=0
 CursorLine=0
-JumpList=
-ViMarks=.,20,10,<,21,0,>,21,0,[,20,10,],20,10,^,20,10
-ViRegisterContents=def testMethod\n    puts "Test method output"\n    puts "This is really cool indenting"\n    7.times do |w|\n      puts "For the #{w}th time\\, Kate is amazing"\n    end\n  end
-ViRegisterFlags=0
-ViRegisterNames=^
+JumpList=0,0
+ViMarks=
 
-[MainWindow0-ViewSpace 0 file:///home/jake/code/ruby/Blackjack/classes.rb]
-CursorColumn=10
+[MainWindow0-ViewSpace 0 file:///home/jake/code/ruby/Blackjack/blackjack.rb]
+CursorColumn=0
 CursorLine=0
 JumpList=
 ViMarks=
 ViRegisterContents=def testMethod\n    puts "Test method output"\n    puts "This is really cool indenting"\n    7.times do |w|\n      puts "For the #{w}th time\\, Kate is amazing"\n    end\n  end
 ViRegisterFlags=0
 ViRegisterNames=^
+
+[MainWindow0-ViewSpace 0 file:///home/jake/code/ruby/Blackjack/classes.rb]
+CursorColumn=21
+CursorLine=39
+JumpList=
+ViMarks=
+ViRegisterContents=def testMethod\n    puts "Test method output"\n    puts "This is really cool indenting"\n    7.times do |w|\n      puts "For the #{w}th time\\, Kate is amazing"\n    end\n  end
+ViRegisterFlags=0
+ViRegisterNames=^
+
+[MainWindow0-ViewSpace 0 file:///home/jake/code/ruby/Blackjack/ui.rb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
 
 [Open Documents]
 Count=1
@@ -258,19 +301,21 @@ Recursive=true
 Search=
 SearchDiskFiles=
 SearchDiskFiless=
+SearchFolder=
+SearchFolders=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/DarkOxygen/install.sh
+File1[$e]=$HOME/.vimrc
 File2[$e]=$HOME/code/ruby/Blackjack/blackjack.rb
 File3[$e]=$HOME/code/ruby/Blackjack/classes.rb
 File4[$e]=$HOME/code/ruby/Blackjack/ui.rb
-File5[$e]=$HOME/.vimrc
-Name1[$e]=install.sh
+File5[$e]=$HOME/Downloads/darK/sample.rb
+Name1[$e]=.vimrc
 Name2[$e]=blackjack.rb
 Name3[$e]=classes.rb
 Name4[$e]=ui.rb
-Name5[$e]=.vimrc
+Name5[$e]=sample.rb
 
 [TipOfDay]
 RunOnStart=false
