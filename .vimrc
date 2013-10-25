@@ -53,7 +53,7 @@ function SetPython ()
     call SetCode()
 endfunction
 
-autocmd FileType gitcommit 1
+au FileType gitcommit au! BufEnter COMMIT_EDITMSG call setpos('.', [0, 1, 1, 0])
 
 autocmd FileType python call SetPython()
 autocmd FileType ruby call SetRuby()
