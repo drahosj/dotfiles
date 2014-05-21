@@ -1,27 +1,753 @@
-[KNewStuff]
-ProvidersUrl=http://kate.kde.org/share/providers.xml
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[Colors]
+CurrentPalette=* Custom Colors *
+
+[Document 0]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+
+[Document 1]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h
+
+[Document 2]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=C
+Indentation Mode=cstyle
+Mode=C
+URL=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c
+
+[Document 3]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+
+[Document 4]
+Bookmarks=23,28
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.h
+
+[Document 5]
+Bookmarks=52,57
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h
+
+[Document 6]
+Bookmarks=47
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
+
+[Document 7]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
+
+[Document 8]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=C
+Indentation Mode=cstyle
+Mode=C
+URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c
+
+[Document 9]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=C++
+Indentation Mode=cstyle
+Mode=C++
+URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
+
+[General]
+Days Meta Infos=30
+Last Session=
+Modified Notification=true
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Status Bar=true
+Startup Session=manual
+
+[KFileDialog Settings]
+Height 1050=520
+Width 1680=960
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=System
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Search Dir Config Depth=9
+Show Spaces=false
+Show Tabs=false
+Smart Home=true
+Tab Handling=2
+Tab Width=4
+Word Wrap=false
+Word Wrap Column=80
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katectagsplugin=false
+katefilebrowserplugin=true
+katefiletemplates=true
+katefiletreeplugin=true
+katekonsoleplugin=false
+katemailfilesplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=true
+katetabbarextensionplugin=false
+katetabifyplugin=false
+katetextfilterplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=true
+
+[Kate Renderer Defaults]
+Schema=CustomDark
+Show Indentation Lines=true
+Show Whole Bracket Expression=true
+Word Wrap Marker=true
+
+[Kate Vi Input Mode Settings]
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Indicators=1
+Folding Bar=true
+Icon Bar=false
+Line Modification=false
+Line Numbers=true
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=
+Scroll Bar Marks=false
+Scroll Bar Mini Map=true
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=Cwire,cwire,431,IsPower,monitorac,ispowersteal,GPIO,IsWOBLoadOkForOffCycle,IsOffCyclePowerStealingAvailableOnW,IsOffCyclePowerStealingAvailableOnW(,IsOffCycle,static,IsVbattAvailable,isoff,isoffcyclepowerstealingavailableonw,isoffcyclepowerstealing,should,Vbatt,vbatt
+Search/Replace Flags=140
+Smart Copy Cut=false
+Vi Input Mode=true
+Vi Input Mode Hide Status Bar=false
+Vi Input Mode Steal Keys=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAABpAAAAPQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+ToolBarsMovable=Disabled
+geometry-1050-1680=AdnQywABAAAAAAd4////+AAAC6EAAAaXAAACagAAAUoAAAUlAAADKQAAAAECAA==
+geometry-1600-900=AdnQywABAAD////4////+AAABkcAAANjAAABygAAAPAAAASFAAACzwAAAAACAA==
+geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAACagAAAUoAAAUlAAADKQAAAAECAA==
+geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAACagAAAUoAAAUlAAADKQAAAAACAA==
 
 [MainWindow0]
 Active ViewSpace=0
-Kate-MDI-H-Splitter=200,560,200
-Kate-MDI-Sidebar-0-Splitter=480
+Characters Count Visible=false
+Cursor Position Visible=true
+Document Name Visible=true
+Encoding Visible=true
+Insertion Mode Visible=true
+Kate-MDI-H-Splitter=200,1694,200
+Kate-MDI-Sidebar-0-Splitter=966,0,0
 Kate-MDI-Sidebar-1-Splitter=
 Kate-MDI-Sidebar-2-Splitter=
 Kate-MDI-Sidebar-3-Splitter=0
-Kate-MDI-Sidebar-Style=3
+Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
-Kate-MDI-ToolView-kate_filelist-Persistent=false
-Kate-MDI-ToolView-kate_filelist-Position=0
-Kate-MDI-ToolView-kate_filelist-Sidebar-Position=0
-Kate-MDI-ToolView-kate_filelist-Visible=true
-Kate-MDI-ToolView-kate_private_plugin_katefindinfilesplugin-Persistent=false
-Kate-MDI-ToolView-kate_private_plugin_katefindinfilesplugin-Position=3
-Kate-MDI-ToolView-kate_private_plugin_katefindinfilesplugin-Sidebar-Position=0
-Kate-MDI-ToolView-kate_private_plugin_katefindinfilesplugin-Visible=false
-Kate-MDI-V-Splitter=150,461,200
-State=AAAA/wAAAAD9AAAAAAAAAxoAAAHlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_plugin_symbolviewer-Persistent=false
+Kate-MDI-ToolView-kate_plugin_symbolviewer-Position=0
+Kate-MDI-ToolView-kate_plugin_symbolviewer-Sidebar-Position=2
+Kate-MDI-ToolView-kate_plugin_symbolviewer-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Sidebar-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,944,200
+Selection Mode Visible=true
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+geometry-1600-900=AdnQywABAAD////4////+AAABkcAAANjAAABygAAAPAAAASFAAACzwAAAAACAA==
+geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAACagAAAUoAAAUlAAADKQAAAAECAA==
+geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAACagAAAUoAAAUlAAADKQAAAAACAA==
+
+[MainWindow0 Settings]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+WindowState=10
+geometry-1600-900=AdnQywABAAD////4////+AAABkcAAANjAAABygAAAPAAAASFAAACzwAAAAACAA==
+geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAACagAAAUoAAAUlAAADKQAAAAECAA==
+geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAACagAAAUoAAAUlAAADKQAAAAACAA==
 
 [MainWindow0-Splitter 0]
-Children=MainWindow0-ViewSpace 0
+Children=MainWindow0-ViewSpace 0,MainWindow0-ViewSpace 1
 Orientation=1
-Sizes=560
+Sizes=845,845
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+Count=1
+View 0=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+View 1=file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c
+View 2=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+View 3=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
+View 4=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c
+View 5=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
+View 6=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h
+View 7=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
+View 8=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c
+View 9=file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.c
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c]
+CursorColumn=32
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/PhantomFunction_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c]
+CursorColumn=25
+CursorLine=65
+JumpList=158,65,0,0,214,0
+ViMarks=<,168,4,>,177,36,^,34,78,a,32,0,b,24,0,c,168,0,d,177,0
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.h]
+CursorColumn=33
+CursorLine=28
+JumpList=
+ViMarks=^,28,34,a,23,0
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h]
+CursorColumn=47
+CursorLine=0
+JumpList=
+ViMarks=<,57,49,>,57,49,^,52,48,a,57,0
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h]
+CursorColumn=0
+CursorLine=98
+JumpList=
+ViMarks=<,47,54,>,47,54,^,129,0,a,47,0
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h]
+CursorColumn=8
+CursorLine=20
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c]
+CursorColumn=36
+CursorLine=20
+JumpList=
+ViMarks=^,20,37
+ViRegisterContents=\n,#include <em_acmp.h>\n#include <em_burtc.h>\n#include <em_msc.h>\n#include <em_rtc.h>\n#include <NvmManager.h>\n#include <Assert.h>\n#include <LedControler.h>\n,\n#include <PhantomFunction_Includes.h>
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h]
+CursorColumn=18
+CursorLine=242
+JumpList=
+ViMarks=^,242,19
+ViRegisterContents=\n#endif //UNIT_TESTS
+ViRegisterFlags=0
+ViRegisterNames=^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/config/katerc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/config/kateschemarc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/config/katesyntaxhighlightingrc]
+CursorColumn=0
+CursorLine=3095
+JumpList=
+ViMarks=
+ViRegisterContents=\n
+ViRegisterFlags=1
+ViRegisterNames=-
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/test.log]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Isabella/trunk/Software/Isabella%2520Gateway/Source Code/Gateway/GTWCC/MessageFiltering/Unit Tests/Setup/UT_MessageFilter_Defaults.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=
+ViRegisterFlags=
+ViRegisterNames=
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Isabella/trunk/Software/Isabella%2520Gateway/Source Code/Gateway/GTWCC/MessageFiltering/Unit Tests/Setup/UT_MessageFilter_Setup.h]
+CursorColumn=80
+CursorLine=16
+JumpList=
+ViMarks=<,0,0,>,0,0
+ViRegisterContents=
+ViRegisterFlags=
+ViRegisterNames=
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Shared Components/ReleaseBuilder/trunk/Build/Debug/Exe/HoneyBadgerBetter.xml]
+CursorColumn=15
+CursorLine=32
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Shared Components/ReleaseBuilder/trunk/Build/Debug/Exe/ReleaseBuilderLog.log]
+CursorColumn=10
+CursorLine=17
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Shared Components/ReleaseBuilder/trunk/Configurations/HoneyBadgerBetter/HoneyBadgerBetter.xml]
+CursorColumn=3
+CursorLine=12
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Shared Components/ReleaseBuilder/trunk/SourceCode/DataStore.cs]
+CursorColumn=56
+CursorLine=35
+JumpList=
+ViMarks=<,18,34,>,18,38
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/Phantom.c]
+CursorColumn=0
+CursorLine=23
+JumpList=
+ViMarks=<,0,0,>,0,0,^,15,66
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/Phantom.h]
+CursorColumn=62
+CursorLine=26
+JumpList=
+ViMarks=^,20,0
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/PhantomSetup.h]
+CursorColumn=71
+CursorLine=15
+JumpList=
+ViMarks=^,15,72
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/Unit Tests/MUT/MinUnitTestMain.c]
+CursorColumn=4
+CursorLine=14
+JumpList=
+ViMarks=^,14,5
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c]
+CursorColumn=0
+CursorLine=16
+JumpList=
+ViMarks=^,16,0
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.h]
+CursorColumn=3
+CursorLine=15
+JumpList=
+ViMarks=^,15,4
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/svn/HSG/Intrusion/Connected-Homes/HoneyBadger/trunk/Software/Device/Better/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomSetup.h]
+CursorColumn=0
+CursorLine=16
+JumpList=
+ViMarks=^,16,0
+ViRegisterContents=\n,// REPLACED by a single include of either PhantomSetup.h for module includes\\,\n// or UT_PhantomSetup.h\\, which stubs all external module functions
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 1]
+Active View=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+Count=1
+View 0=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+View 1=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c
+View 2=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+View 3=file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h
+View 4=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h
+View 5=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
+View 6=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
+View 7=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h]
+CursorColumn=16
+CursorLine=40
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \s
+ViRegisterFlags=1,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/MUT/MUT Framework/Source Code/MinUnitTest.h]
+CursorColumn=23
+CursorLine=270
+JumpList=
+ViMarks=
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c]
+CursorColumn=77
+CursorLine=34
+JumpList=158,65,0,0,214,0
+ViMarks=<,168,4,>,177,36,^,34,78,a,32,0,b,24,0
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.h]
+CursorColumn=33
+CursorLine=28
+JumpList=
+ViMarks=^,28,34
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h]
+CursorColumn=47
+CursorLine=0
+JumpList=
+ViMarks=<,57,49,>,57,49,^,52,48
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h]
+CursorColumn=0
+CursorLine=32
+JumpList=
+ViMarks=<,47,46,>,47,46,^,32,0
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h]
+CursorColumn=8
+CursorLine=20
+JumpList=
+ViMarks=
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=\n,#include <em_acmp.h>\n#include <em_burtc.h>\n#include <em_msc.h>\n#include <em_rtc.h>\n#include <NvmManager.h>\n#include <Assert.h>\n#include <LedControler.h>\n,\n#include <PhantomFunction_Includes.h>
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=\n#endif //UNIT_TESTS
+ViRegisterFlags=0
+ViRegisterNames=^
+
+[Notification Messages]
+kate_ignore_modonhd=false
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+auto sync folder=false
+filter history=
+location[$e]=file:///C:/HBSource/Source%20Files/SourceCode/Phantom/Unit%20Tests/
+
+[Plugin:katefilebrowserplugin:MainWindow:0:dir]
+Decoration position=0
+Previews=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=Detail
+
+[Plugin:katefiletreeplugin:MainWindow:0]
+listMode=false
+sortRole=0
+
+[Plugin:katesearchplugin:MainWindow:0:search-plugin]
+BinaryFiles=false
+CurrentFilter=0
+Filters=\\0
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=0
+Recursive=true
+Search=aeuaeuaeuisVbatt,aeuaeuaeu
+SearchFolder=
+SearchFolders=
+UseRegExp=false
+
+[PluginSymbolViewer]
+ExpandTree=false
+ViewTypes=true
+
+[Recent Files]
+File1[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
+File10[$e]=C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+File2[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c
+File3[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
+File4[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
+File5[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c
+File6[$e]=$HOME/AppData/Roaming/.kde/share/apps/katepart/katepartui.rc
+File7[$e]=C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h
+File8[$e]=C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c
+File9[$e]=C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c
+Name1[$e]=UT_PhantomTypes.h
+Name10[$e]=Phantom.h
+Name2[$e]=UT_PhantomValues.c
+Name3[$e]=UT_PhantomValues.h
+Name4[$e]=UT_PhantomStubs.h
+Name5[$e]=UT_Phantom.c
+Name6[$e]=katepartui.rc
+Name7[$e]=Phantom.h
+Name8[$e]=Phantom.c
+Name9[$e]=Phantom.c
+
+[Snippets]
+enabledRepositories=C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C snippets.xml
+
+[Snippets][repository C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C snippets.xml]
+shortcut commentborder=,
+shortcut stestcase=,
+shortcut tc=,
+shortcut testcase=,
+
+[Snippets][repository C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C++ snippets.xml]
+shortcut CommentBorder=Ctrl+/,
+
+[TipOfDay]
+RunOnStart=false
+
+[filetree]
+editShade=210,181,216
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=185,178,206

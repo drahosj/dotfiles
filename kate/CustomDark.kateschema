@@ -12,17 +12,17 @@ Keyword=ff934f96,ff934f96,1,,,,-,-,,---
 Normal=ff839496,ff839496,,,,,-,-,,---
 Others=ff859900,ff859900,,,,,-,-,,---
 Region Marker=ff268bd2,ff268bd2,,,,,ffeee8d5,-,,---
-String=ffdc322f,ffdc322f,,,,,-,-,,---
+String=ffdc5d5a,ffdc5d5a,,,,,-,-,,---
 
 [Editor Colors]
 Color Background=30,32,44
 Color Code Folding=108,113,196
-Color Highlighted Bracket=28,29,41
+Color Highlighted Bracket=12,66,59
 Color Highlighted Line=6,46,57
 Color Icon Bar=41,43,60
 Color Indentation Line=130,53,138
 Color Line Number=147,161,161
-Color MarkType 1=38,139,210
+Color MarkType 1=74,40,210
 Color MarkType 2=220,50,47
 Color MarkType 3=181,137,0
 Color MarkType 4=211,54,130
