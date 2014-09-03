@@ -9,100 +9,220 @@ Bookmarks=
 Encoding=System
 FoldedColumns=
 FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=
 
 [Document 1]
 Bookmarks=
 Encoding=System
 FoldedColumns=
 FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///C:/HBSource/CHAPIParsing/README
+
+[Document 10]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/polished/jsonify-chapi.rb
+
+[Document 11]
+Bookmarks=33
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/polished/json-stitch.rb
+
+[Document 12]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=JSON
+Indentation Mode=normal
+Mode=JSON
+URL=file:///C:/HBSource/CHAPIParsing/polished/locations.json
+
+[Document 13]
+Bookmarks=229,230
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/polished/metrics.rb
+
+[Document 14]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=XML
+Indentation Mode=xml
+Mode=XML
+URL=file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/bmp_headers_strict/bmp_headers_strict.osd
+
+[Document 15]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///C:/HBSource/CHAPIParsing/GeofenceData2.csv
+
+[Document 16]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///C:/HBSource/CHAPIParsing/GeofenceData.csv
+
+[Document 17]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=JSON
+Indentation Mode=normal
+Mode=JSON
+URL=file:///C:/HBSource/System%2520Specification/RNPEncodingUTF-8.json
+
+[Document 18]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///C:/Users/H101465/report.txt
+
+[Document 19]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///C:/HBSource/RNPMessageCreator/fake_dr_message_body.txt
 
 [Document 2]
 Bookmarks=
 Encoding=System
 FoldedColumns=
 FoldedLines=
-Highlighting=C
-Indentation Mode=cstyle
-Mode=C
-URL=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/report-helper.rb
+
+[Document 20]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/Share/BuildStatus/buildstatus-srv.rb
+
+[Document 21]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=None
+Indentation Mode=normal
+Mode=
+URL=file:///C:/HBSource/RNPMessageCreator/README.txt
 
 [Document 3]
 Bookmarks=
 Encoding=System
 FoldedColumns=
 FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/report-one-direction.rb
 
 [Document 4]
-Bookmarks=23,28
-Encoding=windows-1252
-FoldedColumns=
-FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.h
-
-[Document 5]
-Bookmarks=52,57
-Encoding=windows-1252
-FoldedColumns=
-FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h
-
-[Document 6]
-Bookmarks=47
+Bookmarks=
 Encoding=System
 FoldedColumns=
 FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/web.rb
+
+[Document 5]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/chapi-classes.rb
+
+[Document 6]
+Bookmarks=
+Encoding=System
+FoldedColumns=
+FoldedLines=
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/metrics.rb
 
 [Document 7]
 Bookmarks=
-Encoding=windows-1252
-FoldedColumns=
-FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
-
-[Document 8]
-Bookmarks=
 Encoding=System
 FoldedColumns=
 FoldedLines=
-Highlighting=C
-Indentation Mode=cstyle
-Mode=C
-URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/multiple-phones-report.rb
+
+[Document 8]
+Bookmarks=
+Encoding=windows-1252
+FoldedColumns=
+FoldedLines=
+Highlighting=JSON
+Indentation Mode=normal
+Mode=JSON
+URL=file:///C:/HBSource/CHAPIParsing/polished/events.json
 
 [Document 9]
 Bookmarks=
 Encoding=windows-1252
 FoldedColumns=
 FoldedLines=
-Highlighting=C++
-Indentation Mode=cstyle
-Mode=C++
-URL=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
+Highlighting=Ruby
+Indentation Mode=ruby
+Mode=Ruby
+URL=file:///C:/HBSource/CHAPIParsing/polished/expand-db.rb
 
 [General]
 Days Meta Infos=30
@@ -131,7 +251,7 @@ Indent On Backspace=true
 Indent On Tab=true
 Indent On Text Paste=false
 Indentation Mode=normal
-Indentation Width=4
+Indentation Width=2
 Keep Extra Spaces=false
 Line Length Limit=4096
 Newline At EOF=false
@@ -143,10 +263,10 @@ Remove Spaces=0
 ReplaceTabsDyn=true
 Search Dir Config Depth=9
 Show Spaces=false
-Show Tabs=false
+Show Tabs=true
 Smart Home=true
 Tab Handling=2
-Tab Width=4
+Tab Width=2
 Word Wrap=false
 Word Wrap Column=80
 
@@ -207,7 +327,7 @@ Scroll Bar Mini Map=true
 Scroll Bar Mini Map All=false
 Scroll Bar Mini Map Width=60
 Scroll Past End=false
-Search Pattern History=Cwire,cwire,431,IsPower,monitorac,ispowersteal,GPIO,IsWOBLoadOkForOffCycle,IsOffCyclePowerStealingAvailableOnW,IsOffCyclePowerStealingAvailableOnW(,IsOffCycle,static,IsVbattAvailable,isoff,isoffcyclepowerstealingavailableonw,isoffcyclepowerstealing,should,Vbatt,vbatt
+Search Pattern History=\\\\[".*"\\\\],round,illogical,buildlight:62,%s/buildlight/$buildlight/g,builds,Info -- Accepted,info,--DHCP Thread,Packet Received,packet received,%s/printf\\\\(__/actualprintf(__/g,printf,puts,count,FFFE,FFFDF,000FFFDF,FFFE0,VirtualRelay,Weather,ThermostatCode\\\\Weather,RELAYNOT,phy_relaynot,\\\\); [a-zA-Z],RunTasks,MonitorAc,MonitorAC,\\\\(\\\\); [a-zA-Z],[a-zA-Z]; [a-zA-Z],[:alphanum],Do,RELAY,relay,zeromode,LoadPresent,loadpresent,akeAnd,etermine,determ,determineenergymode,Cwire,cwire,431,IsPower,monitorac,ispowersteal,GPIO,IsWOBLoadOkForOffCycle,IsOffCyclePowerStealingAvailableOnW,IsOffCyclePowerStealingAvailableOnW(,IsOffCycle,static,IsVbattAvailable,isoff,isoffcyclepowerstealingavailableonw,isoffcyclepowerstealing,should,Vbatt,vbatt
 Search/Replace Flags=140
 Smart Copy Cut=false
 Vi Input Mode=true
@@ -217,12 +337,14 @@ Word Completion=true
 Word Completion Minimal Word Length=3
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABpAAAAPQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 ToolBarsMovable=Disabled
+geometry-1024-768=AdnQywABAAD////4////+AAABkcAAANjAAAExAAAAakAAAd/AAADiAAAAAACAA==
 geometry-1050-1680=AdnQywABAAAAAAd4////+AAAC6EAAAaXAAACagAAAUoAAAUlAAADKQAAAAECAA==
+geometry-1152-864=AdnQywABAAD////4////+AAABIcAAAM/AAAExAAAAakAAAd/AAADiAAAAAACAA==
 geometry-1600-900=AdnQywABAAD////4////+AAABkcAAANjAAABygAAAPAAAASFAAACzwAAAAACAA==
-geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAACagAAAUoAAAUlAAADKQAAAAECAA==
-geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAACagAAAUoAAAUlAAADKQAAAAACAA==
+geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAAExAAAAakAAAd/AAADiAAAAAECAA==
+geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAAExAAAAakAAAd/AAADiAAAAAACAA==
 
 [MainWindow0]
 Active ViewSpace=0
@@ -231,8 +353,8 @@ Cursor Position Visible=true
 Document Name Visible=true
 Encoding Visible=true
 Insertion Mode Visible=true
-Kate-MDI-H-Splitter=200,1694,200
-Kate-MDI-Sidebar-0-Splitter=966,0,0
+Kate-MDI-H-Splitter=245,1329,200
+Kate-MDI-Sidebar-0-Splitter=786,0,0
 Kate-MDI-Sidebar-1-Splitter=
 Kate-MDI-Sidebar-2-Splitter=
 Kate-MDI-Sidebar-3-Splitter=0
@@ -262,38 +384,58 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,944,200
+Kate-MDI-V-Splitter=150,764,200
 Selection Mode Visible=true
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 geometry-1600-900=AdnQywABAAD////4////+AAABkcAAANjAAABygAAAPAAAASFAAACzwAAAAACAA==
-geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAACagAAAUoAAAUlAAADKQAAAAECAA==
-geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAACagAAAUoAAAUlAAADKQAAAAACAA==
+geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAAExAAAAakAAAd/AAADiAAAAAECAA==
+geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAAExAAAAakAAAd/AAADiAAAAAACAA==
 
 [MainWindow0 Settings]
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABkAAAAMSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAA
 WindowState=10
 geometry-1600-900=AdnQywABAAD////4////+AAABkcAAANjAAABygAAAPAAAASFAAACzwAAAAACAA==
-geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAACagAAAUoAAAUlAAADKQAAAAECAA==
-geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAACagAAAUoAAAUlAAADKQAAAAACAA==
+geometry-1680-1050=AdnQywABAAAAAAd4////+AAADhcAAAQhAAAExAAAAakAAAd/AAADiAAAAAECAA==
+geometry-1920-1080=AdnQywABAAD////4////+AAAB4cAAAQXAAAExAAAAakAAAd/AAADiAAAAAACAA==
 
 [MainWindow0-Splitter 0]
-Children=MainWindow0-ViewSpace 0,MainWindow0-ViewSpace 1
+Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=845,845
+Sizes=1329
 
 [MainWindow0-ViewSpace 0]
-Active View=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+Active View=
 Count=1
-View 0=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
-View 1=file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c
-View 2=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
-View 3=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
-View 4=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c
-View 5=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
-View 6=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h
-View 7=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
-View 8=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c
-View 9=file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.c
+View 0=file:///C:/HBSource/CHAPIGeofenceParsing/README
+View 1=file:///C:/HBSource/CHAPIParsing/multiple-phones-report.rb
+View 10=file:///C:/HBSource/CHAPIParsing/polished/events.json
+View 11=file:///C:/HBSource/CHAPIParsing/polished/multiple-phones-report.rb
+View 12=file:///C:/HBSource/RNPMessageCreator/fake_dr_message_body.txt
+View 13=file:///C:/HBSource/CHAPIParsing/polished/expand-db.rb
+View 14=file:///C:/Share/BuildStatus/buildstatus-srv.rb
+View 15=file:///C:/HBSource/CHAPIParsing/polished/jsonify-chapi.rb
+View 16=file:///C:/HBSource/CHAPIParsing/polished/report-helper.rb
+View 17=file:///C:/HBSource/CHAPIParsing/polished/print.rb
+View 18=file:///C:/HBSource/CHAPIParsing/polished/otb-reports.rb
+View 19=file:///C:/HBSource/CHAPIParsing/polished/web.rb
+View 2=file:///C:/HBSource/CHAPIParsing/chapi-classes.rb
+View 20=file:///C:/HBSource/RNPMessageCreator/README.txt
+View 3=file:///C:/HBSource/CHAPIParsing/web.rb
+View 4=file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/dynamic-array-js/main.js
+View 5=file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/test-structure/main.js
+View 6=file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/bmp_headers_strict/bmp_headers_strict.osd
+View 7=file:///C:/HBSource/CHAPIParsing/polished/report-one-direction.rb
+View 8=file:///C:/HBSource/CHAPIParsing/polished/metrics.rb
+View 9=file:///C:/HBSource/CHAPIParsing/polished/otbs.json
+
+[MainWindow0-ViewSpace 0 file:///C:/DevKit/config.yml]
+CursorColumn=1
+CursorLine=14
+JumpList=
+ViMarks=^,14,2
+ViRegisterContents=\s,-\s
+ViRegisterFlags=0,0
+ViRegisterNames=-,^
 
 [MainWindow0-ViewSpace 0 file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c]
 CursorColumn=32
@@ -306,6 +448,246 @@ CursorColumn=0
 CursorLine=0
 JumpList=
 ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIGeofenceParsing/README]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing - Copy/README]
+CursorColumn=60
+CursorLine=41
+JumpList=
+ViMarks=^,41,61
+ViRegisterContents=ACTUAL,USER
+ViRegisterFlags=0,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/GeofenceData.csv]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/GeofenceData2.csv]
+CursorColumn=156
+CursorLine=5
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/chapi-classes.rb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=require './json-stitch'\n
+ViRegisterFlags=1
+ViRegisterNames=-
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/multiple-phones-report.rb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=require './json-stitch'\n
+ViRegisterFlags=1
+ViRegisterNames=-
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/otb-reports.rb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=require './json-stitch'\n
+ViRegisterFlags=1
+ViRegisterNames=-
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/chapi-classes.rb]
+CursorColumn=5
+CursorLine=129
+JumpList=
+ViMarks=^,104,0
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/events.json]
+CursorColumn=0
+CursorLine=237
+JumpList=
+ViMarks=<,96,0,>,96,0
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/expand-db.rb]
+CursorColumn=0
+CursorLine=44
+JumpList=
+ViMarks=^,16,79
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/json-stitch.rb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/jsonify-chapi.rb]
+CursorColumn=3
+CursorLine=30
+JumpList=
+ViMarks=^,45,3
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/metrics.rb]
+CursorColumn=23
+CursorLine=221
+JumpList=
+ViMarks=<,229,19,>,229,19,^,230,51,a,229,0
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/multiple-phones-report.rb]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/otb-reports.rb]
+CursorColumn=41
+CursorLine=116
+JumpList=
+ViMarks=<,98,10,>,98,24,^,99,27
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/otbs.json]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/print.rb]
+CursorColumn=7
+CursorLine=0
+JumpList=
+ViMarks=^,0,8
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/report-helper.rb]
+CursorColumn=6
+CursorLine=13
+JumpList=
+ViMarks=^,12,58
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/report-one-direction.rb]
+CursorColumn=74
+CursorLine=12
+JumpList=
+ViMarks=^,12,75
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/report.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=require 'json'\n,get "/report/one-otb" do\nend\n,require './json-stitch'
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/users.json]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/polished/web.rb]
+CursorColumn=0
+CursorLine=11
+JumpList=
+ViMarks=<,68,0,>,68,0,^,195,15,a,68,0
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/report.out]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/CHAPIParsing/web.rb]
+CursorColumn=18
+CursorLine=7
+JumpList=
+ViMarks=
+ViRegisterContents=require './json-stitch'\n
+ViRegisterFlags=1
+ViRegisterNames=-
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/RNPMessageCreator/README.txt]
+CursorColumn=78
+CursorLine=57
+JumpList=
+ViMarks=<,55,79,>,55,79,^,52,83,a,55,0
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/RNPMessageCreator/fake_dr_message_body.txt]
+CursorColumn=3
+CursorLine=7
+JumpList=
+ViMarks=<,7,1,>,7,1,^,8,27
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/RadioTrunk/packet_trace_print.patch]
+CursorColumn=58
+CursorLine=2761
+JumpList=
+ViMarks=<,2761,58,>,2763,60
+ViRegisterContents=Index: Source/Wiced/Wiced_2.4.0/Wiced/WWD/include/wwd_assert.\n
+ViRegisterFlags=1
+ViRegisterNames=-
 
 [MainWindow0-ViewSpace 0 file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.c]
 CursorColumn=0
@@ -397,12 +779,48 @@ ViRegisterContents=#define IntegrateBatteryChargeCurrent(...)          {}\n,   \
 ViRegisterFlags=1,0
 ViRegisterNames=-,^
 
-[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c]
-CursorColumn=36
-CursorLine=20
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/System%2520Specification/RNPEncodingUTF-8.json]
+CursorColumn=30
+CursorLine=18
 JumpList=
-ViMarks=^,20,37
-ViRegisterContents=\n,#include <em_acmp.h>\n#include <em_burtc.h>\n#include <em_msc.h>\n#include <em_rtc.h>\n#include <NvmManager.h>\n#include <Assert.h>\n#include <LedControler.h>\n,\n#include <PhantomFunction_Includes.h>
+ViMarks=
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/CodingStyle/Plain C code.c]
+CursorColumn=13
+CursorLine=16
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/CodingStyle/Plain C header.h]
+CursorColumn=0
+CursorLine=11
+JumpList=
+ViMarks=<,9,23,>,12,19
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/HoneyBadgerBetter.ewp]
+CursorColumn=51
+CursorLine=12232
+JumpList=
+ViMarks=^,9453,68
+ViRegisterContents=\\\\
+ViRegisterFlags=0
+ViRegisterNames=^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
 ViRegisterFlags=1,1,0
 ViRegisterNames=-,0,^
 
@@ -414,6 +832,186 @@ ViMarks=^,242,19
 ViRegisterContents=\n#endif //UNIT_TESTS
 ViRegisterFlags=0
 ViRegisterNames=^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_Phantom.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=^,0,0
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_PhantomAccessors.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h]
+CursorColumn=2
+CursorLine=20
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=^,0,0
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureCompensation_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureInputSetup_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=^,0,0
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureInput_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureCommon.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureCompensation.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureInput.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=26,0,22,28,82,22,40,14,41,51,147,0,63,0,150,42,0,0,42,61,49,2
+ViMarks=<,0,0,>,0,0,^,0,0
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureInputSetup.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=20,61
+ViMarks=<,0,0,>,0,0,^,0,0
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Share/BuildStatus/buildstatus-srv.rb]
+CursorColumn=4
+CursorLine=117
+JumpList=
+ViMarks=
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/bmp_headers_strict/bmp_headers_strict.osd]
+CursorColumn=6
+CursorLine=15
+JumpList=
+ViMarks=
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/dynamic-array-js/main.js]
+CursorColumn=0
+CursorLine=13
+JumpList=
+ViMarks=
+ViRegisterContents=\s,    data : array(char()\\, function {\n      return mainStruct.len.value;\n    })\\,\n,function(mainStruct) {\n      return mainStruct.len.value;\n    }
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/dynamic-array-js/metadata.desktop]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=\s,    data : array(char()\\, function {\n      return mainStruct.len.value;\n    })\\,\n,function(mainStruct) {\n      return mainStruct.len.value;\n    }
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/simple-js/main.js]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=<,0,0,>,0,0
+ViRegisterContents=\s,    data : array(char()\\, function {\n      return mainStruct.len.value;\n    })\\,\n,function(mainStruct) {\n      return mainStruct.len.value;\n    }
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/simple-js/metadata.desktop]
+CursorColumn=24
+CursorLine=27
+JumpList=
+ViMarks=
+ViRegisterContents=\s,    data : array(char()\\, function {\n      return mainStruct.len.value;\n    })\\,\n,function(mainStruct) {\n      return mainStruct.len.value;\n    }
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/test-structure/main.js]
+CursorColumn=4
+CursorLine=9
+JumpList=
+ViMarks=<,7,5,>,7,5,^,9,4
+ViRegisterContents=\s,    data : array(char()\\, function {\n      return mainStruct.len.value;\n    })\\,\n,function(mainStruct) {\n      return mainStruct.len.value;\n    }
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/test-structure/metadata.desktop]
+CursorColumn=37
+CursorLine=12
+JumpList=
+ViMarks=<,7,0,>,7,0,^,12,38
+ViRegisterContents=\s,    data : array(char()\\, function {\n      return mainStruct.len.value;\n    })\\,\n,function(mainStruct) {\n      return mainStruct.len.value;\n    }
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/apps/okteta/structures/test_structure/test.desktop]
+CursorColumn=35
+CursorLine=11
+JumpList=
+ViMarks=^,11,36
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
 
 [MainWindow0-ViewSpace 0 file:///C:/Users/H101465/AppData/Roaming/.kde/share/config/katerc]
 CursorColumn=0
@@ -436,11 +1034,149 @@ ViRegisterContents=\n
 ViRegisterFlags=1
 ViRegisterNames=-
 
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Desktop/GetterSetterMaker]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/BuildStatus/buildstatus.rb]
+CursorColumn=30
+CursorLine=31
+JumpList=
+ViMarks=<,71,45,>,71,70,^,10,46
+ViRegisterContents=licensed, unless $buildlight == nil,used
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/GitHub/RubyBackup/rbb.rb]
+CursorColumn=0
+CursorLine=64
+JumpList=
+ViMarks=<,106,0,>,106,0,^,138,3
+ViRegisterContents=\s puts blacklist\n,END_REMOTE_SCRIPT\n\n,\nrequire 'json'\n\nbackup_root = gets.chomp\ndatestamp = gets.chomp\ndirectories = JSON.parse(gets.chomp)\n\ndirectories.each {|d| Dir.mkdir(backup_root + "/" + datestamp + "/" + d) }\nEND_REMOTE_SCRIPT\n\n$get_last_hashes = <<
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/GitHub/RubyBackup/testconfig.rb]
+CursorColumn=0
+CursorLine=12
+JumpList=
+ViMarks=<,10,34,>,10,68,^,12,0
+ViRegisterContents=\s puts blacklist\n,END_REMOTE_SCRIPT\n\n,\nrequire 'json'\n\nbackup_root = gets.chomp\ndatestamp = gets.chomp\ndirectories = JSON.parse(gets.chomp)\n\ndirectories.each {|d| Dir.mkdir(backup_root + "/" + datestamp + "/" + d) }\nEND_REMOTE_SCRIPT\n\n$get_last_hashes = <<
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/GitHub/dotfiles/kate/CustomDark.kateschema]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/RnpPersonality.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/RnpPersonality.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/footprint-field/cysat-packed-footprint.tex]
+CursorColumn=13
+CursorLine=6
+JumpList=
+ViMarks=<,36,13,>,36,13,^,6,17
+ViRegisterContents=0-,  \\\\bitbox{32}{Payload 1 Array}\\\\\\\\\n  \\\\bitbox{32}{Payload 1 Array - Continued}\\\\\\\\\n,-0
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/terrible.rb]
+CursorColumn=0
+CursorLine=5
+JumpList=
+ViMarks=^,6,24
+ViRegisterContents=\n,  update_light_status(buildlight)\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
 [MainWindow0-ViewSpace 0 file:///C:/Users/H101465/Documents/test.log]
 CursorColumn=0
 CursorLine=0
 JumpList=
 ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/blocks.rb]
+CursorColumn=14
+CursorLine=56
+JumpList=
+ViMarks=<,2,0,>,2,0,^,55,0
+ViRegisterContents=\n,  puts "From uses_implicit"\n,p
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/functional-exceptions.rb]
+CursorColumn=0
+CursorLine=22
+JumpList=
+ViMarks=<,12,0,>,12,0,^,27,3
+ViRegisterContents=s
+ViRegisterFlags=0
+ViRegisterNames=-
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/report.txt]
+CursorColumn=55
+CursorLine=162
+JumpList=
+ViMarks=^,147,0
+ViRegisterContents=.,total_users - users_with_teleports.size}, after changing project\nconfiguration settings.
+ViRegisterFlags=0,0,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/testmain.c]
+CursorColumn=1
+CursorLine=9
+JumpList=
+ViMarks=^,8,13
+ViRegisterContents=int,\nvoid doAThing();\nvoid indirectThing();\n\nint main()\n{\n    doAThing();\n    indirectThing();\n    return 0;
+ViRegisterFlags=0,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/Users/H101465/testso.c]
+CursorColumn=14
+CursorLine=9
+JumpList=
+ViMarks=^,9,15
+ViRegisterContents=int,\nvoid doAThing();\nvoid indirectThing();\n\nint main()\n{\n    doAThing();\n    indirectThing();\n    return 0;
+ViRegisterFlags=0,0
+ViRegisterNames=-,^
+
+[MainWindow0-ViewSpace 0 file:///C:/cygwin64/home/H101465/dhcpd.py]
+CursorColumn=33
+CursorLine=121
+JumpList=
+ViMarks=<,80,19,>,81,55,^,79,6
+ViRegisterContents=\s     nextaddr = addr_prefix + chr(random.randint(100\\,199))\n,def set_last_octet(addr\\, last):\n  return addr[0:2] + chr(last)\n,
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 0 file:///C:/cygwin64/home/H101465/good-offer-bad-ack.log]
+CursorColumn=15
+CursorLine=1837
+JumpList=
+ViMarks=<,1859,60,>,1859,60,^,1883,0
+ViRegisterContents=s
+ViRegisterFlags=0
+ViRegisterNames=-
 
 [MainWindow0-ViewSpace 0 file:///C:/svn/ECC/HomesNA/RedlinkSystem/Isabella/trunk/Software/Isabella%2520Gateway/Source Code/Gateway/GTWCC/MessageFiltering/Unit Tests/Setup/UT_MessageFilter_Defaults.h]
 CursorColumn=0
@@ -548,16 +1284,16 @@ ViRegisterFlags=1,0
 ViRegisterNames=-,^
 
 [MainWindow0-ViewSpace 1]
-Active View=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
+Active View=file:///C:/HBSource/CHAPIParsing/polished/chapi-classes.rb
 Count=1
-View 0=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
-View 1=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c
-View 2=file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
-View 3=file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h
-View 4=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomConsts.h
-View 5=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
-View 6=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
-View 7=file:///C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
+View 0=file:///C:/HBSource/CHAPIParsing/polished/chapi-classes.rb
+View 1=file:///C:/Users/H101465/Documents/GitHub/RubyBackup/rbb.rb
+View 2=file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureInputSetup.cpp
+View 3=file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureInput.cpp
+View 4=file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureInputSetup_Includes.h
+View 5=file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureInput_Includes.h
+View 6=file:///C:/Users/H101465/Desktop/TabToSpace.log
+View 7=file:///C:/Users/H101465/Desktop/TabToSpace.rb
 
 [MainWindow0-ViewSpace 1 file:///C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c]
 CursorColumn=0
@@ -570,6 +1306,15 @@ CursorColumn=16
 CursorLine=40
 JumpList=
 ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/CHAPIParsing/polished/chapi-classes.rb]
+CursorColumn=11
+CursorLine=17
+JumpList=
+ViMarks=<,31,10,>,44,4,^,103,4
+ViRegisterContents=\n,ncoding=UTF-8\nIcon=arrow-up\nType=Service\nServiceTypes=KPluginInfo\n\nName=Simple test\nComment=Simple test struct\n\n\nX-KDE-PluginInfo-Author=Jake Drahos\nX-KDE-PluginInfo-Email=drahos.jake@gmail.com\nX-KDE-PluginInfo-Name=test\nX-KDE-PluginInfo-Version=1.0\nX-KDE-PluginInfo-EnabledByDefault=false\nX-KDE-PluginInfo-Category=structure\nX-KDE-PluginInfo-License=LGPL\nX-KDE-PluginInfo-Website=http://drahos.me,_structure
+ViRegisterFlags=1,0,0
+ViRegisterNames=-,0,^
 
 [MainWindow0-ViewSpace 1 file:///C:/HBSource/Source Files/SourceCode/Phantom/Phantom.c]
 CursorColumn=0
@@ -643,6 +1388,15 @@ ViRegisterContents=;;;\n,    inputPin[GPIO_DT] = 0; //didn't charge in time\n,
 ViRegisterFlags=1,1,0
 ViRegisterNames=-,0,^
 
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/HoneyBadgerBetter.ewp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=\\\\
+ViRegisterFlags=0
+ViRegisterNames=^
+
 [MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c]
 CursorColumn=0
 CursorLine=0
@@ -661,6 +1415,159 @@ ViRegisterContents=\n#endif //UNIT_TESTS
 ViRegisterFlags=0
 ViRegisterNames=^
 
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_Phantom.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=^,0,0
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_PhantomAccessors.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=^,0,0
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureCompensation_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureInputSetup_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/TemperatureInput_Includes.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=<,0,0,>,0,0,^,0,0
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureCommon.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureInput.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/HBSource/Trunk/SourceCode/ThermostatCode/Analog Inputs/Temperature/Source Code/Unit Tests/UT_TemperatureInputSetup.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=22,3,101,0
+ViMarks=<,0,0,>,0,0,^,0,0
+ViRegisterContents=0,    SetInternalTemperature(MIN_INDOOR_TEMP_FS8 - 10);\n    CalculateIndoorTemperature();\n    MU_ASSERT_FL(GetIndoorTemperature() == MIN_INDOOR_TEMP_FS8);\n,;
+ViRegisterFlags=0,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/Desktop/GetterSetterMaker]
+CursorColumn=2
+CursorLine=19
+JumpList=
+ViMarks=<,18,0,>,18,0,^,19,0
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/Desktop/TabToSpace.log]
+CursorColumn=0
+CursorLine=23984
+JumpList=695,30
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/Desktop/TabToSpace.rb]
+CursorColumn=0
+CursorLine=17
+JumpList=
+ViMarks=<,31,0,>,31,0,^,29,18
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/Documents/GitHub/RubyBackup/rbb.rb]
+CursorColumn=6
+CursorLine=193
+JumpList=33,16
+ViMarks=<,103,28,>,103,28,^,170,50
+ViRegisterContents=\s puts blacklist\n,END_REMOTE_SCRIPT\n\n,\nrequire 'json'\n\nbackup_root = gets.chomp\ndatestamp = gets.chomp\ndirectories = JSON.parse(gets.chomp)\n\ndirectories.each {|d| Dir.mkdir(backup_root + "/" + datestamp + "/" + d) }\nEND_REMOTE_SCRIPT\n\n$get_last_hashes = <<
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/Documents/GitHub/RubyBackup/testconfig.rb]
+CursorColumn=2
+CursorLine=15
+JumpList=
+ViMarks=<,13,0,>,13,0,^,5,10
+ViRegisterContents=\s puts blacklist\n,END_REMOTE_SCRIPT\n\n,\nrequire 'json'\n\nbackup_root = gets.chomp\ndatestamp = gets.chomp\ndirectories = JSON.parse(gets.chomp)\n\ndirectories.each {|d| Dir.mkdir(backup_root + "/" + datestamp + "/" + d) }\nEND_REMOTE_SCRIPT\n\n$get_last_hashes = <<
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/Documents/GitHub/dotfiles/kate/CustomDark.kateschema]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+ViRegisterContents=//    {"TEST_IsWOBLoadOkForOffCycle"    \\, TEST_IsWOBLoadOkForOffCycle         }\\,\n,//    {"TEST_IsOffCyclePowerStealingAvailable"\\, \n//                                    TEST_IsOffCyclePowerStealingAvailable   }\\,\n,!
+ViRegisterFlags=1,1,0
+ViRegisterNames=-,0,^
+
+[MainWindow0-ViewSpace 1 file:///C:/Users/H101465/testso.c]
+CursorColumn=1
+CursorLine=10
+JumpList=
+ViMarks=
+ViRegisterContents=int,\nvoid doAThing();\nvoid indirectThing();\n\nint main()\n{\n    doAThing();\n    indirectThing();\n    return 0;
+ViRegisterFlags=0,0
+ViRegisterNames=-,^
+
 [Notification Messages]
 kate_ignore_modonhd=false
 
@@ -673,7 +1580,7 @@ Count=1
 [Plugin:katefilebrowserplugin:MainWindow:0]
 auto sync folder=false
 filter history=
-location[$e]=file:///C:/HBSource/Source%20Files/SourceCode/Phantom/Unit%20Tests/
+location[$e]=file:///C:/Users/H101465
 
 [Plugin:katefilebrowserplugin:MainWindow:0:dir]
 Decoration position=0
@@ -708,38 +1615,28 @@ ExpandTree=false
 ViewTypes=true
 
 [Recent Files]
-File1[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomTypes.h
-File10[$e]=C:/HBSource/Trunk/SourceCode/Phantom/Phantom.h
-File2[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.c
-File3[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomValues.h
-File4[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_PhantomStubs.h
-File5[$e]=C:/HBSource/Source Files/SourceCode/Phantom/Unit Tests/UT_Phantom.c
-File6[$e]=$HOME/AppData/Roaming/.kde/share/apps/katepart/katepartui.rc
-File7[$e]=C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.h
-File8[$e]=C:/HBSource/Branch Backup/SourceCode/Phantom/Phantom.c
-File9[$e]=C:/HBSource/Trunk/SourceCode/Phantom/Phantom.c
-Name1[$e]=UT_PhantomTypes.h
-Name10[$e]=Phantom.h
-Name2[$e]=UT_PhantomValues.c
-Name3[$e]=UT_PhantomValues.h
-Name4[$e]=UT_PhantomStubs.h
-Name5[$e]=UT_Phantom.c
-Name6[$e]=katepartui.rc
-Name7[$e]=Phantom.h
-Name8[$e]=Phantom.c
-Name9[$e]=Phantom.c
+File1[$e]=C:/HBSource/CHAPIGeofenceParsing/README
+Name1[$e]=README
 
 [Snippets]
-enabledRepositories=C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C snippets.xml
+enabledRepositories=C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C snippets.xml,C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C++ snippets.xml
 
 [Snippets][repository C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C snippets.xml]
+shortcut asbat=,
+shortcut asfc=,
+shortcut asmon=,
+shortcut asnc=,
+shortcut asoc=,
 shortcut commentborder=,
+shortcut smtask=,
 shortcut stestcase=,
 shortcut tc=,
 shortcut testcase=,
 
 [Snippets][repository C:/Users/H101465/AppData/Roaming/.kde/share/apps/ktexteditor_snippets/data/C++ snippets.xml]
 shortcut CommentBorder=Ctrl+/,
+shortcut aoeu=,
+shortcut mafline=,
 
 [TipOfDay]
 RunOnStart=false
