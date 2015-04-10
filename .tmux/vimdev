@@ -3,6 +3,8 @@ new -s VimDev vim
 splitw -v -p 30 -t 0
 
 selectp -t 1
+split-window -h -p 66
+selectp -t 2
 split-window -h
 
 
