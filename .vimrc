@@ -35,6 +35,7 @@ nnoremap ts :call ToggleSyntax() <CR>
 nnoremap ga :w<CR>:!git add %<CR>
 nnoremap gc :!git commit<CR>
 nnoremap gp :!git push<CR>
+nnoremap tt :NERDTreeToggle<CR>
 
 " Generic code function. Set width, tabstop, smarttab, numbering
 function SetCode ()
@@ -98,3 +99,21 @@ autocmd FileType javascript call SetHTML()
 
 " Set shell to bash so some one-liners work
 set shell=/bin/bash
+
+" Auto NerdTree if no file given
+function! StartUp()
+	if 0 == argc()
+		NERDTree
+	end
+endfunction
+
+autocmd VimEnter * call StartUp()
+
+" Splits Keybindings and stuff
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+
+set splitbelow
+set splitright
