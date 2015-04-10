@@ -7,7 +7,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 " Vundle plugin list
-
+Plugin 'Valloric/YouCompleteMe'
 
 " Initialize plugins
 call vundle#end()
