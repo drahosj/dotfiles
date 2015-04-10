@@ -1,0 +1,4 @@
+new -s VimDev vim
+
+splitw -v -p 30 -t 0
+selectp -t 0
