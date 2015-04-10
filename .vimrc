@@ -1,5 +1,21 @@
+" Vundle stuff
+set nocompatible 
+filetype off
+ 
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'gmarik/Vundle.vim'
+
+" Vundle plugin list
+
+
+" Initialize plugins
+call vundle#end()
+
 filetype plugin indent on
 filetype plugin on
+ 
+" End Vundle stuff
 
 colorscheme Tomorrow-Night
 syntax on
