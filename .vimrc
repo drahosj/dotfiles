@@ -1,5 +1,6 @@
 filetype plugin indent on
 filetype plugin on
+
 colorscheme Tomorrow-Night
 syntax on
 
@@ -19,22 +20,29 @@ nnoremap ga :w<CR>:!git add %<CR>
 nnoremap gc :!git commit<CR>
 nnoremap gp :!git push<CR>
 
+" Generic code function. Set width, tabstop, smarttab, numbering
 function SetCode ()
-    setlocal tabstop=4
-    setlocal softtabstop=4
-    setlocal shiftwidth=4
     setlocal textwidth=80
+    
+    setlocal tabstop=6
+    setlocal softtabstop=6
+    setlocal shiftwidth=6
+
     setlocal smarttab
-    setlocal expandtab
     setlocal number
 endfunction
 
+" Specific functions for filetypes. Most filetypes use vanilla 
+" SetCode(). The most common deviation is to override SetCode()
+" with expandtab and custom tab width (Ruby and Python)
 function SetGitCommit ()
     call SetCode()
 endfunction
 
 function SetRuby ()
     call SetCode()
+
+    setlocal expandtab
 
     setlocal tabstop=2
     setlocal softtabstop=2
@@ -43,22 +51,34 @@ endfunction
 
 function SetHTML ()
     call SetCode()
-
-    setlocal tabstop=2
-    setlocal softtabstop=2
-    setlocal shiftwidth=2
 endfunction
 
 function SetPython ()
     call SetCode()
+
+    setlocal expandtab
+
+    setlocal tabstop=4
+    setlocal softtabstop=4
+    setlocal shiftwidth=4
 endfunction
 
+" Don't delete this. It's important
 au FileType gitcommit au! BufEnter COMMIT_EDITMSG call setpos('.', [0, 1, 1, 0])
 
-autocmd FileType python call SetPython()
-autocmd FileType ruby call SetRuby()
+" Call setup functions for appropriate filetypes
 autocmd FileType gitcommit call SetPython()
+
+autocmd FileType python call SetPython()
+
+autocmd FileType ruby call SetRuby()
+
+autocmd FileType h call SetCode()
 autocmd FileType c call SetCode()
+
 autocmd FileType json call SetHTML()
 autocmd FileType html call SetHTML()
 autocmd FileType javascript call SetHTML()
+
+" Set shell to bash so some one-liners work
+set shell=/bin/bash
