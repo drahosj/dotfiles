@@ -1,0 +1,10 @@
+new -s cysat vim
+
+splitw -v -p 30 -t 0
+
+selectp -t 1
+split-window -h -p 66 "minicom -w ttyACM0.conf"
+selectp -t 2
+split-window -h st-util
+
+selectp -t 0
