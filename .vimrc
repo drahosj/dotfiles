@@ -103,6 +103,7 @@ set shell=/bin/bash
 " Auto NerdTree if no file given
 function! StartUp()
 	if 0 == argc()
+		vsplit
 		NERDTree
 	end
 endfunction
