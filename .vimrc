@@ -2,21 +2,9 @@
 set nocompatible 
 filetype off
  
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'gmarik/Vundle.vim'
-
-" Vundle plugin list
-Plugin 'Valloric/YouCompleteMe'
-
-" Initialize plugins
-call vundle#end()
-
 filetype plugin indent on
 filetype plugin on
  
-" End Vundle stuff
-
 colorscheme Tomorrow-Night
 syntax on
 
@@ -41,13 +29,26 @@ nnoremap tt :NERDTreeToggle<CR>
 function SetCode ()
     setlocal textwidth=80
     
-    setlocal tabstop=6
-    setlocal softtabstop=6
-    setlocal shiftwidth=6
-
     setlocal smarttab
     setlocal number
 endfunction
+
+function SetTab(width)
+    let &l:tabstop = a:width
+    let &l:softtabstop = a:width
+    let &l:shiftwidth = a:width
+
+    call SetCode()
+endfunction
+
+function SetSpace(width)
+    call SetTab(a:width)
+
+    setlocal expandtab
+
+    call SetCode()
+endfunction
+    
 
 " Specific functions for filetypes. Most filetypes use vanilla 
 " SetCode(). The most common deviation is to override SetCode()
@@ -56,46 +57,26 @@ function SetGitCommit ()
     call SetCode()
 endfunction
 
-function SetRuby ()
-    call SetCode()
-
-    setlocal expandtab
-
-    setlocal tabstop=2
-    setlocal softtabstop=2
-    setlocal shiftwidth=2
-endfunction
-
-function SetHTML ()
-    call SetCode()
-endfunction
-
-function SetPython ()
-    call SetCode()
-
-    setlocal expandtab
-
-    setlocal tabstop=4
-    setlocal softtabstop=4
-    setlocal shiftwidth=4
-endfunction
-
 " Don't delete this. It's important
 au FileType gitcommit au! BufEnter COMMIT_EDITMSG call setpos('.', [0, 1, 1, 0])
 
 " Call setup functions for appropriate filetypes
-autocmd FileType gitcommit call SetPython()
+autocmd FileType gitcommit call SetSpace(4)
 
-autocmd FileType python call SetPython()
+autocmd FileType python call SetSpace(4)
 
-autocmd FileType ruby call SetRuby()
+autocmd FileType ruby call SetSpace(2)
 
-autocmd FileType h call SetCode()
-autocmd FileType c call SetCode()
+autocmd FileType h call SetTab(4)
+autocmd FileType c call SetTab(6)
+autocmd FileType cpp call SetTab(4)
 
-autocmd FileType json call SetHTML()
-autocmd FileType html call SetHTML()
-autocmd FileType javascript call SetHTML()
+autocmd FileType vhd call SetTab(8)
+autocmd FileType vhdl call SetTab(8)
+
+autocmd FileType json call SetSpace(4)
+autocmd FileType html call SetSpace(4)
+autocmd FileType javascript call SetSpace(4)
 
 " Set shell to bash so some one-liners work
 set shell=/bin/bash
@@ -118,3 +99,6 @@ nnoremap <C-H> <C-W><C-H>
 
 set splitbelow
 set splitright
+
+command! -nargs=1 SS call SetSpace(<f-args>)
+command! -nargs=1 ST call SetTab(<f-args>)

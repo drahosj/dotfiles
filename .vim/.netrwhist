@@ -1,7 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/jake/.config/dunst'
-let g:netrw_dirhist_2='/home/jake/.config/lxsession/LXDE'
-let g:netrw_dirhist_3='/home/jake/dotfiles/.vim'
-let g:netrw_dirhist_4='/opt/cross/avr/avr/include/avr'
-let g:netrw_dirhist_5='/home/jake/demos/toggle/lmm_toggle'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/etc/nginx/conf.d'
+let g:netrw_dirhist_2='/home/jake/playground/playground.README'
+let g:netrw_dirhist_3='/home/jake/playground'
+let g:netrw_dirhist_4='/home/jake/.tmux'
