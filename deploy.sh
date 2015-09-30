@@ -2,15 +2,15 @@
 
 # Deploy dotfiles
 
-if [ -e ~/dotfiles_backup ]
+if [ -e dotfiles.old ]
 then
-	echo "Old ~/dotfiles_backup found, abort!!"
+	echo "Old dotfiles.old found, abort!!"
 	exit 1
 fi
 
-mkdir ~/dotfiles_backup
+mkdir dotfiles.old
 
-alias rm='mv -t ~/dotfiles_backup/'
+alias rm='mv -t dotfiles.old/'
 
 # Vim
 echo "Deploying vim"
@@ -48,4 +48,4 @@ cp .bash_prompt ~/.bash_prompt
 
 echo "Done!"
 echo "Run \`. ~/.bash_prompt' to load new bash prompt"
-echo "Old dotfiles in ~/dotfiles_backup"
+echo "Old dotfiles in dotfiles.old"
