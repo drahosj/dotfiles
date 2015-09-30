@@ -35,7 +35,6 @@ endfunction
 
 function SetTab(width)
     let &l:tabstop = a:width
-    let &l:softtabstop = a:width
     let &l:shiftwidth = a:width
 
     call SetCode()
@@ -44,6 +43,7 @@ endfunction
 function SetSpace(width)
     call SetTab(a:width)
 
+    let &l:softtabstop = a:width
     setlocal expandtab
 
     call SetCode()
