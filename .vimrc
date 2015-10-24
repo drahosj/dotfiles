@@ -85,7 +85,6 @@ set shell=/bin/bash
 function! StartUp()
 	if 0 == argc()
 		vsplit
-		NERDTree
 	end
 endfunction
 
