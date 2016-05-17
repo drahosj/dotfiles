@@ -52,6 +52,7 @@ then
 	echo ".zshrc already exists, skipping zsh setup"
 else
 	echo "Installing Oh-My-Zsh"
+	ecoh "The installer spawns a zsh instance. Exit from it once it spawns"
 	pushd ~
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 	popd
