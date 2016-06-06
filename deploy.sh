@@ -23,6 +23,10 @@ echo "Deploying new vim config"
 cp -r .vim ~/.vim
 cp .vimrc ~/.vimrc
 
+echo "Deploying YCM files"
+cp .ycm_extra_conf_global
+touch ~/.ycm_extra_conf_globlist
+
 # tmux
 
 echo "Deploying tmux"

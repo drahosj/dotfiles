@@ -1,14 +1,43 @@
-" Vundle stuff
-set nocompatible 
-filetype off
+" Vim-plug
+call plug#begin('~/.vim/plugged')
+
+" Enable plugins
+" YCM is deferred
+Plug 'Valloric/YouCompleteMe', { 'on': [] }
+
+" End plug
+call plug#end()
+
+" YCM Configuration
+let g:ycm_global_ycm_extra_conf = '/home/jake/.ycm_extra_conf_global.py'
+source ~/.ycm_extra_conf_globlist
+
+" Completion enabler
+command -bar StartCompletion call StartCompletion()
+function StartCompletion()
+    call plug#load('YouCompleteMe')
+    call youcompleteme#Enable()
+endfunction
+
+" YCM Start Conditions
+autocmd FileType c call StartCompletion()
+autocmd FileType h call StartCompletion()
+autocmd FileType cpp call StartCompletion()
+autocmd FileType ruby call StartCompletion()
+autocmd FileType python call StartCompletion()
+
+" Start YCM if there is a .ycm_extra_conf.py
+if filereadable('./.ycm_extra_conf.py')
+    call StartCompletion()
+endif
  
+" Other configuration
 filetype plugin indent on
-filetype plugin on
  
 colorscheme Tomorrow-Night
 syntax on
 
-function ToggleSyntax ()
+function ToggleSyntax()
     :if exists("g:syntax_on") | syntax off | else | syntax on | endif
 endfunction
 
@@ -28,6 +57,9 @@ nnoremap ga :w<CR>:!git add %<CR>
 nnoremap gc :!git commit<CR>
 nnoremap gp :!git push<CR>
 
+" Numbers by default
+set number
+set foldcolumn=0
 
 " Hexmode stuff
 " ex command for toggling hex mode - define mapping if desired
