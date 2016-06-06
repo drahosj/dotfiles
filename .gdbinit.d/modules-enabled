@@ -1,0 +1,1 @@
+dashboard -layout !assembly !expressions !memory !registers !history source stack threads
