@@ -51,6 +51,7 @@ plugins=(git)
 # User configuration
 
   export PATH="/home/jake/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games:/usr/lib/mit/bin:/usr/lib/mit/sbin"
+  export PATH="$PATH:/opt/arm-none-eabi/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -86,3 +87,5 @@ unsetopt AUTO_LIST
 setopt BASH_AUTO_LIST
 setopt NO_BEEP
 setopt LIST_AMBIGUOUS
+
+zstyle ':completion:*' accept-exact false
