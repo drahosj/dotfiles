@@ -89,3 +89,11 @@ setopt NO_BEEP
 setopt LIST_AMBIGUOUS
 
 zstyle ':completion:*' accept-exact false
+
+# the fuck
+eval $(thefuck --alias)
+
+alias be='bundle exec'
+
+# Make Bundle not ask for sudo
+export BUNDLE_PATH="vendor/bundle"
