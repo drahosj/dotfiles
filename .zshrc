@@ -95,7 +95,7 @@ eval $(thefuck --alias)
 
 alias be='bundle exec'
 alias brb='bundle exec ruby'
-alias birb'bundle exec irb'
+alias birb='bundle exec irb'
 
 # Make Bundle not ask for sudo
 export BUNDLE_PATH="vendor/bundle"
