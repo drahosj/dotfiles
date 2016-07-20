@@ -40,9 +40,6 @@ syntax on
 set ignorecase
 set smartcase
 
-highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-match OverLength /\%81v.\+/
-
 function ToggleSyntax()
     :if exists("g:syntax_on") | syntax off | else | syntax on | endif
 endfunction
@@ -71,6 +68,9 @@ set foldcolumn=0
 " Generic code function. Set width, tabstop, smarttab, numbering
 function SetCode ()
     setlocal textwidth=80
+
+    highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+    match OverLength /\%81v.\+/
     
     setlocal smarttab
     setlocal number
