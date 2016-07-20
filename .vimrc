@@ -40,6 +40,9 @@ syntax on
 set ignorecase
 set smartcase
 
+highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+match OverLength /\%81v.\+/
+
 function ToggleSyntax()
     :if exists("g:syntax_on") | syntax off | else | syntax on | endif
 endfunction
