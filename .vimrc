@@ -26,6 +26,7 @@ autocmd FileType c call StartCompletion()
 autocmd FileType h call StartCompletion()
 autocmd FileType cpp call StartCompletion()
 autocmd FileType ruby call StartCompletion()
+autocmd FileType java call StartCompletion()
 
 " Start YCM if there is a .ycm_extra_conf.py
 if filereadable('./.ycm_extra_conf.py')
@@ -120,6 +121,7 @@ autocmd FileType c SetTab 6
 autocmd FileType cpp SetTab 4
 
 autocmd FileType d SetSpace 4
+autocmd FileType java SetTab 4
 
 autocmd FileType vhd SetTab 8
 autocmd FileType vhdl SetTab 8
